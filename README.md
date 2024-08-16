@@ -2,7 +2,7 @@
 
 ## I'm [Mehedi Hasan][homepage]
 
-A PHP Laravel developer from [Bangaldesh][about-bangladesh]. I love building web applications & discussing new product ideas. Reach out to me on [Facebook][Facebook] if you'd like to talk✌️
+A PHP Laravel developer from [Bangaldesh][about-bangladesh]. I love building web applications & discussing new product ideas. Reach out to me on Facebook. if you'd like to talk✌️
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 
