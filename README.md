@@ -6,13 +6,6 @@ A PHP Laravel developer from [Bangaldesh][about-bangladesh]. I love building web
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][whatsapp] [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)][twitter] [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 
-<details>
-  < [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
-</details>
-
-<details>
-  <summary><b>Stats</b></summary>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=alsayeedar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/alsayeedar)
 </details>
