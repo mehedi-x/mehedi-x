@@ -1,8 +1,8 @@
 <img align="left" width="150" height="150" alt="Dani Akash" src="https://sdk.bitmoji.com/render/panel/20052909-102418244176_4-s5-v1.png?transparent=1&palette=1&scale=1"/>
 
-## I'm [Mehedi Hasan][homepage]
+I'm [Mehedi Hasan][homepage]
+###### Admin at Cyber protection 
 
-A PHP Laravel developer from [Bangaldesh][about-bangladesh]. I love building web applications & discussing new product ideas. Reach out to me on Facebook. if you'd like to talk✌️
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 
