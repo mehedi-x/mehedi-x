@@ -17,7 +17,7 @@ A PHP Laravel developer from [Bangaldesh][about-bangladesh]. I love building web
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=alsayeedar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/alsayeedar)
 </details>
 
-[homepage]: https://github.com/alsayeedar
+[homepage]: https://github.com/mehedi-x
 [facebook]: https://www.facebook.com/AlSayeedOfficial
 [whatsapp]: https://wa.me/8801868188006
 [twitter]: https://twitter.com/alsayeedar
