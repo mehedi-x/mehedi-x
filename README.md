@@ -1,6 +1,6 @@
 <img align="left" width="150" height="150" alt="Dani Akash" src="https://sdk.bitmoji.com/render/panel/20052909-102418244176_4-s5-v1.png?transparent=1&palette=1&scale=1"/>
 
-## I'm [Al Sayeed][homepage]
+## I'm [Mehedi Hasan][homepage]
 
 A PHP Laravel developer from [Bangaldesh][about-bangladesh]. I love building web applications & discussing new product ideas. Reach out to me on [WhatsApp][whatsapp] if you'd like to talk✌️
 
